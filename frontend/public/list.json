@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Clean Code",
+        "title":" A Handbook of Agile Software Craftsmanship by Robert C. Martin",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id":2,
+        "name":"Introduction to Algorithms",
+        "title":" Discover the fundamental algorithms and data structures essential for solving complex computational problems.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id":3,
+        "name":"The Pragmatic Programmer",
+        "title":"Embark on a journey to become a pragmatic programmer by mastering practical techniques and principles for crafting high-quality software.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id": 4,
+        "name":"The Pragmatic Programmer",
+        "title":"Embark on a journey to become a pragmatic programmer by mastering practical techniques and principles for crafting high-quality software.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id":5,
+        "name":"The Pragmatic Programmer",
+        "title":"Embark on a journey to become a pragmatic programmer by mastering practical techniques and principles for crafting high-quality software.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id":6,
+        "name":"The Pragmatic Programmer",
+        "title":"Embark on a journey to become a pragmatic programmer by mastering practical techniques and principles for crafting high-quality software.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id":7,
+        "name":"The Pragmatic Programmer",
+        "title":"Embark on a journey to become a pragmatic programmer by mastering practical techniques and principles for crafting high-quality software.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id":8,
+        "name":"The Pragmatic Programmer",
+        "title":"Embark on a journey to become a pragmatic programmer by mastering practical techniques and principles for crafting high-quality software.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    },
+    {
+        "id":9,
+        "name":"The Pragmatic Programmer",
+        "title":"Embark on a journey to become a pragmatic programmer by mastering practical techniques and principles for crafting high-quality software.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714656217~exp=1714659817~hmac=94d7df138e3bab70594b9250da13a57e63049b210f8b82b23c506e6b13a21f60&w=740"
+    } 
+]
